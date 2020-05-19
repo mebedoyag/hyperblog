@@ -3,3 +3,6 @@ body {
     font-family: "Arial";
     color: red;
 }
+.title {
+    border: 5px blue solid;
+}
